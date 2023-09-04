@@ -1,5 +1,5 @@
 # bharat-intern-web-development-tasks
-In this repo, I shared all the tasks which was given by Bharat-Intern
+In this repo, I shared all the tasks which I was assigned to me by Bharat-Intern
 1. Portfolio Website :
   A portfolio website made up of HTML, CSS telling about me and my accomplishments.
 
